@@ -1,0 +1,7 @@
+table name: DAL
+columns: age fname lname 
+datatype: int(age) 
+primarykey: $id
+ 
+foreighkey: 
+Reference Tables: 

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="578d4ba1-d41d-4513-8814-5f115cb67b74" name="Default Changelist" comment="Final merged project Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="vishnu" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1uTJM9cZXatWUOiKc5hRD672Q7K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Main/QueryFunctions" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vishn\Desktop\5408pro\pull\csci-5408-project\src\main\java\Main\QueryFunctions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\kishan\study\Dalhousie University\2nd Sem\data\project\CSCI-5408\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Main" />
+      <recent name="Main.QueryFunctions" />
+      <recent name="Main.CheckPrimaryKey" />
+      <recent name="Main.CheckForeignKey" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainUI">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.UI.MainUI" />
+      <module name="csci-5408-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Query_Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Query_Regex" />
+      <module name="CSCI-5408" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectQuery (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.QueryFunctions.SelectQuery" />
+      <module name="CSCI-5408" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.QueryFunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queries.SelectQuery" />
+      <module name="CSCI-5408" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.UserLogin" />
+      <module name="CSCI-5408" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainUI" />
+        <item itemvalue="Application.UserLogin" />
+        <item itemvalue="Application.SelectQuery (1)" />
+        <item itemvalue="Application.SelectQuery" />
+        <item itemvalue="Application.Query_Regex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="578d4ba1-d41d-4513-8814-5f115cb67b74" name="Default Changelist" comment="" />
+      <created>1624683594823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624683594823</updated>
+      <workItem from="1627215199120" duration="36808000" />
+      <workItem from="1627388199610" duration="38261000" />
+      <workItem from="1627542139462" duration="13344000" />
+      <workItem from="1627564610947" duration="11082000" />
+      <workItem from="1627718346440" duration="3685000" />
+      <workItem from="1627819496575" duration="19683000" />
+    </task>
+    <task id="LOCAL-00001" summary="Regex for each Query with tests">
+      <created>1624776335239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624776335239</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Select function">
+      <created>1626847983180</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626847983180</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Select function">
+      <created>1626848046599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626848046599</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modified type of select query function">
+      <created>1626849377656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626849377656</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" selectStar function complete">
+      <created>1626861932577</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626861932577</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" selectColumns function complete">
+      <created>1626873384598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626873384598</updated>
+    </task>
+    <task id="LOCAL-00007" summary="created UserLogin.java">
+      <created>1627192731631</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627192731631</updated>
+    </task>
+    <task id="LOCAL-00008" summary="User Login created">
+      <created>1627207974512</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627207974512</updated>
+    </task>
+    <task id="LOCAL-00009" summary="QueryValidation.java created">
+      <created>1627210566646</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627210566646</updated>
+    </task>
+    <task id="LOCAL-00010" summary="MainUI created">
+      <created>1627211861957</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1627211861957</updated>
+    </task>
+    <task id="LOCAL-00011" summary="making the code more dynamic">
+      <created>1627217077780</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1627217077780</updated>
+    </task>
+    <task id="LOCAL-00012" summary="adding schema to database">
+      <created>1627218454379</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627218454379</updated>
+    </task>
+    <task id="LOCAL-00013" summary="create table query and primary key">
+      <created>1627297101040</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1627297101040</updated>
+    </task>
+    <task id="LOCAL-00014" summary="error fixed in DeleteQuery">
+      <created>1627530307217</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627530307217</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Final merged project Commit">
+      <created>1627990331789</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627990331789</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Regex for each Query with tests" />
+    <MESSAGE value="Select function" />
+    <MESSAGE value="modified type of select query function" />
+    <MESSAGE value="modified selectStar function" />
+    <MESSAGE value=" selectStar function complete" />
+    <MESSAGE value=" selectColumns function complete" />
+    <MESSAGE value="created UserLogin.java" />
+    <MESSAGE value="User Login created" />
+    <MESSAGE value="QueryValidation.java created" />
+    <MESSAGE value="MainUI created" />
+    <MESSAGE value="making the code more dynamic" />
+    <MESSAGE value="adding schema to database" />
+    <MESSAGE value="create table query and primary key" />
+    <MESSAGE value="error fixed in DeleteQuery" />
+    <MESSAGE value="Final merged project Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final merged project Commit" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+table name: testtable1
+columns: age:int fname lname
+
+primarykey: $id1 
+foreighkey: &id
+ 
+Reference Tables:  testtable

@@ -1,0 +1,7 @@
+table name: der
+columns: v i k
+ 
+datatype: 
+primarykey: 
+foreighkey: 
+Reference Tables: 

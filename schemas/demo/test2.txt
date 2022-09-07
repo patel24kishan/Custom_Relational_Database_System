@@ -1,0 +1,1 @@
+$id,fname:varchar,lname:varchar,&email

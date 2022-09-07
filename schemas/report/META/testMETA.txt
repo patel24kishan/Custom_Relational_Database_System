@@ -1,0 +1,7 @@
+table name: test
+columns: fname 
+datatype: varchar
+(fname) 
+primarykey: $id:int 
+foreighkey: 
+Reference Tables: 

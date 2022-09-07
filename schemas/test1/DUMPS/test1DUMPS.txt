@@ -1,0 +1,1 @@
+create table new (v,i,s)

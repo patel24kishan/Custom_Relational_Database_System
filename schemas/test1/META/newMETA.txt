@@ -1,0 +1,5 @@
+table name: new
+columns: v i s
+ 
+primarykey: 
+foreighkey: 

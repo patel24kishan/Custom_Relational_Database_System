@@ -1,0 +1,5 @@
+create table test (id:int,fname:varchar,lname:varchar,primarykey-email)
+create table test2 (primarykey-id,fname:varchar,lname:varchar,foreignkey-test&email)
+create table test3 (age:int,primarykey-id,foreignkey-test&email)
+create table test4 (age:int,primarykey-id,foreignkey-test&email)
+create table report (id:int,fname:varchar,primarykey-email)

@@ -1,0 +1,24 @@
+table name: test2
+columns: v s l
+ 
+primarykey: $k 
+foreighkey: &kk 
+****************************************************************************************
+table name: test3
+columns: v i s 
+primarykey: $h 
+foreighkey: &kk
+ 
+****************************************************************************************
+table name: test
+columns: vi sh i
+ 
+primarykey: $kk 
+foreighkey: 
+****************************************************************************************
+table name: vishnu
+columns: v i s h n
+ 
+primarykey: 
+foreighkey: 
+****************************************************************************************

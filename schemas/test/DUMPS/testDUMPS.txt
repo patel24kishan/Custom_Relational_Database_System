@@ -1,0 +1,11 @@
+create table test (vi,sh,primarykey-kk,i)
+create table vishnu (v,i,s,h,n)
+create table test2 (v,s,primarykey-k,foreignkey-test&kk,l)
+create table test3 (v,i,s,primarykey-h,foreignkey-test&kk)
+
+Select * from vishnu;
+Select * from vishnu;
+select FNAME,LNAME from vishnu;
+select FNAME,Lname from vishnu;
+select * from vishnu;
+select * from vishnu;

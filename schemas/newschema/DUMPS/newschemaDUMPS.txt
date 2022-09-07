@@ -1,0 +1,6 @@
+create table testtable (age,fname,lname,primarykey-id)
+insert into testtable values (18,testf,testl,4)
+update testtable set fname=vishnu where fname=TESTF
+select * from testtable where lname='TESTL';
+delete from testtable where lname='TESTL';
+drop table testtable

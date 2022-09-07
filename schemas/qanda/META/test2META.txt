@@ -1,0 +1,6 @@
+table name: test2
+columns: age fname lname id1
+ 
+primarykey: 
+foreighkey: &id 
+Reference Tables:  test

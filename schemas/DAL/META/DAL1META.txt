@@ -1,0 +1,7 @@
+table name: DAL1
+columns: age fname lname 
+datatype: int(age) varchar(fname) 
+primarykey: $email
+ 
+foreighkey: &id 
+Reference Tables:  DAL

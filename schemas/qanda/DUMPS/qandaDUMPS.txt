@@ -1,0 +1,7 @@
+create table test (age,fname,lname,primarykey-id)
+create table test2 (age,fname,lname,foreignkey-test&id,id1)
+insert into test values (30,vishnu,sumanth,1)
+insert into test values (23,vishnu,sumanth,2)
+update test set age=24 where id=2
+delete from test;
+drop table test

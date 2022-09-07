@@ -1,0 +1,7 @@
+table name: test1
+columns: fname 
+datatype: varchar(fname) 
+primarykey: $email:int 
+foreighkey: &id
+ 
+Reference Tables:  test

@@ -1,0 +1,40 @@
+table name: report
+columns: id fname 
+datatype: int(id) varchar(fname) 
+primarykey: $email
+ 
+foreighkey: 
+Reference Tables: 
+****************************************************************************************
+table name: test2
+columns: fname lname 
+datatype: varchar(fname) varchar(lname) 
+primarykey: $id 
+foreighkey: &email
+ 
+Reference Tables:  test
+****************************************************************************************
+table name: test3
+columns: age 
+datatype: int(age) 
+primarykey: $id 
+foreighkey: &email
+ 
+Reference Tables:  test
+****************************************************************************************
+table name: test4
+columns: age 
+datatype: int(age) 
+primarykey: $id 
+foreighkey: &email
+ 
+Reference Tables:  test
+****************************************************************************************
+table name: test
+columns: id fname lname 
+datatype: int(id) varchar(fname) varchar(lname) 
+primarykey: $email
+ 
+foreighkey: 
+Reference Tables: 
+****************************************************************************************

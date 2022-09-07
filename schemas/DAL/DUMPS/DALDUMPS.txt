@@ -1,0 +1,3 @@
+create table DAL (age:int,fname,lname,primarykey-id)
+create table DAL1 (age:int,fname:varchar,lname,foreignkey-DAL&id,primarykey-email)
+create table der (v,i,k)

@@ -1,0 +1,5 @@
+table name: vishnu
+columns: v i s h n
+ 
+primarykey: 
+foreighkey: 

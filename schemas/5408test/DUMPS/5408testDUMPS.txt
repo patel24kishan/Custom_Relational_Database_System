@@ -1,0 +1,2 @@
+create table testtable (age:int,fname,lname,primarykey-id)
+create table testtable1 (age:int,fname,lname,primarykey-id1,foreignkey-testtable&id)

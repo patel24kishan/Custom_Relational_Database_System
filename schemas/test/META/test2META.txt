@@ -1,0 +1,5 @@
+table name: test2
+columns: v s l
+ 
+primarykey: $k 
+foreighkey: &kk 

@@ -1,0 +1,3 @@
+Fname=raj,Lname=patel,role=developer,salary=33500,date=01/10/2021
+Fname=harsh,Lname=fetal,role=engineer,salary=65000,date=15/09/2021
+Fname=kishan,Lname=fetal,role=engineer,salary=65000,date=15/09/2021

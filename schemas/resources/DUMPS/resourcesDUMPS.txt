@@ -1,0 +1,1 @@
+Select Fname,role,date from table1;

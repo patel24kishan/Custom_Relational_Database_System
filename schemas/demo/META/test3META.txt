@@ -1,0 +1,7 @@
+table name: test3
+columns: age 
+datatype: int(age) 
+primarykey: $id 
+foreighkey: &email
+ 
+Reference Tables:  test

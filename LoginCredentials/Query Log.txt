@@ -1,0 +1,10 @@
+    Date & Time                Query
+
+01/08/2021 17:26:23		select FNAME,LNAME from vishnu;
+01/08/2021 17:27:46		select * from vishnu where ;
+01/08/2021 18:12:32		Delete from vishnu where LNAME=’RAJ’;
+01/08/2021 18:12:51		delete from vishnu where L
+01/08/2021 18:17:38		delete from vishnu;
+01/08/2021 18:19:24		delete from vishnu where Lname=;
+03/08/2021 16:50:48		select * from vishnu;
+03/08/2021 16:55:03		select * from vishnu;

@@ -1,0 +1,7 @@
+SELECT * FROM table1 where Fname='kishan';
+insert into person($ID,Fname,Lname,Age) values ('34','Vishnu','Raj',60)
+drop table dropfile
+insert into person($ID,Fname,Lname,Age) values ('3','Vishnu','Raj',60);
+insert into person($ID,Fname,Lname,Age) values ('39','Vishnu','Raj',60);
+insert into person values (1,'Bella','Raine',13);
+insert into person values (11,'Bella','Raine',13);

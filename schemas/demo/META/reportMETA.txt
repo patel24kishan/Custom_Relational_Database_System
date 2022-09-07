@@ -1,0 +1,7 @@
+table name: report
+columns: id fname 
+datatype: int(id) varchar(fname) 
+primarykey: $email
+ 
+foreighkey: 
+Reference Tables: 
